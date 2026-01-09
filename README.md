@@ -32,7 +32,15 @@
 ---
 
 ### 📊 Estatísticas do GitHub
-![GitHub stats fast](https://github-readme-stats-fast.vercel.app/api?username=capimrosacha&show_icons=true&theme=dracula)
+<!-- Detalhes do perfil -->
+![Perfil GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=capimrosacha&theme=dracula)
+
+<!-- Estatísticas gerais -->
+![Estatísticas GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=capimrosacha&theme=dracula)
+
+<!-- Linguagens -->
+![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/langs?username=capimrosacha&theme=dracula)
+
 
 
 
