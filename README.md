@@ -34,6 +34,7 @@
 ### 📊 Estatísticas do GitHub
 ![Kenya GitHub stats](https://github-readme-stats.vercel.app/api?username=capimrosacha&show_icons=true&theme=dracula)
 
+
 ---
 
 ### 📫 Contato
