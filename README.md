@@ -38,8 +38,12 @@
 <!-- Estatísticas gerais -->
 ![Estatísticas GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=capimrosacha&theme=dracula)
 
-<!-- Linguagens -->
-![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/langs?username=capimrosacha&theme=dracula)
+### 📊 Estatísticas GitHub (Fast)
+![GitHub Stats Fast](https://github-readme-stats-fast.vercel.app/api?username=capimrosacha&show_icons=true&theme=dracula)
+
+### 🧠 Linguagens mais usadas (Fast)
+![Top Langs Fast](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=capimrosacha&layout=compact&theme=dracula)
+
 
 
 
